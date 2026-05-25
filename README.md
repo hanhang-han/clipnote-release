@@ -1,3 +1,10 @@
+<!--
+Clipboard manager for macOS. Free clipboard history app with Dynamic Island UI.
+Alternative to Maccy, Paste, Copied, CopyClip, iPaste, OneClip.
+macOS native clipboard tool, Swift, SwiftUI, SwiftData.
+剪贴板管理工具, 剪贴板历史, macOS工具, 灵动岛, 菜单栏工具.
+-->
+
 <div align="center">
 
 <img src="assets/icon.png" width="120" height="120" alt="灵剪图标" />
@@ -189,7 +196,12 @@ Mac 系统剪贴板只能记住最近 1 条复制内容。灵剪可以记住最�
 
 ## English
 
-ClipNote is a macOS clipboard manager with a Dynamic Island UI. It automatically records everything you copy and lets you find it instantly.
+ClipNote is a **free macOS clipboard manager** with a unique **Dynamic Island UI**. It automatically records everything you copy and lets you find it instantly. A lightweight, native alternative to Maccy, Paste, Copied, and CopyClip.
+
+**Why ClipNote?**
+- No subscription. Free version has 100 items, Pro is ¥18 one-time
+- Dynamic Island interaction — hover to expand, leave to collapse, zero desktop footprint
+- Native Swift/SwiftUI app, not Electron. Fast and lightweight
 
 **Features:**
 - **Dynamic Island UI** — hover to expand, leave to collapse, zero desktop footprint
@@ -197,6 +209,7 @@ ClipNote is a macOS clipboard manager with a Dynamic Island UI. It automatically
 - **Smart Categorization** — auto-detects text, links, code, images, rich text, Markdown
 - **Instant Search** — find anything in milliseconds
 - **Sticky Note Preview** — click to preview without switching windows
+- **Pin & Favorite** — pin important clips to the top, star your favorites
 - **Multi-format Export** — TXT, JSON, Markdown
 - **Global Shortcut** — `⌘⇧V`
 - **Auto Update** — Sparkle-powered background updates
