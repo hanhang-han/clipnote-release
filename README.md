@@ -17,7 +17,7 @@ macOS native clipboard tool, Swift, SwiftUI, SwiftData.
 
 [![下载](https://img.shields.io/badge/下载-灵剪.dmg-blue?style=for-the-badge)](https://funbox.chat)
 [![macOS](https://img.shields.io/badge/macOS-14+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://funbox.chat)
-[![版本](https://img.shields.io/badge/版本-1.1.1-green?style=for-the-badge)](https://github.com/hanhang-han/clipnote/releases/latest)
+[![版本](https://img.shields.io/badge/版本-1.2.0-green?style=for-the-badge)](https://github.com/hanhang-han/clipnote/releases/latest)
 [![Homebrew](https://img.shields.io/badge/Homebrew-Available-orange?style=for-the-badge&logo=homebrew&logoColor=white)](https://github.com/hanhang-han/homebrew-tap)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
