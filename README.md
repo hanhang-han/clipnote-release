@@ -17,7 +17,7 @@ macOS native clipboard tool, Swift, SwiftUI, SwiftData.
 
 [![下载](https://img.shields.io/badge/下载-灵剪.dmg-blue?style=for-the-badge)](https://funbox.chat)
 [![macOS](https://img.shields.io/badge/macOS-14+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://funbox.chat)
-[![版本](https://img.shields.io/badge/版本-1.2.1-green?style=for-the-badge)](https://github.com/hanhang-han/clipnote/releases/latest)
+[![版本](https://img.shields.io/badge/版本-2.0.0-green?style=for-the-badge)](https://github.com/hanhang-han/clipnote/releases/latest)
 [![Homebrew](https://img.shields.io/badge/Homebrew-Available-orange?style=for-the-badge&logo=homebrew&logoColor=white)](https://github.com/hanhang-han/homebrew-tap)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
@@ -39,6 +39,7 @@ macOS native clipboard tool, Swift, SwiftUI, SwiftData.
 | 📤 多格式导出 | 一键导出为 TXT、JSON、Markdown，资料永不丢失 |
 | ⌨️ 全局快捷键 | `⌘⇧V` 快速唤出，效率拉满 |
 | 🔄 自动更新 | Sparkle 后台自动检查，始终保持最新版本 |
+| 🤖 AI 助手 | 选中内容一键翻译、总结、解释、润色，DeepSeek 驱动 |
 
 ## 🖥️ 截图
 
@@ -91,6 +92,7 @@ brew install --cask hanhang-han/tap/clipnote
 | 图片剪贴板 | ❌ | ✅ |
 | 多格式导出 | ❌ | ✅ |
 | 富文本还原 | ❌ | ✅ |
+| AI 助手 | 8 积分/天 | 80 积分/天 |
 | 价格 | 免费 | **¥18 买断** |
 
 ## 🎁 限时免费领取 Pro
@@ -99,6 +101,14 @@ brew install --cask hanhang-han/tap/clipnote
 
 - 📕 小红书：**秃头也要做开发**
 - 𝕏 Twitter：[@jch47643085](https://x.com/jch47643085)
+
+## 💬 交流反馈
+
+加入反馈群，获取最新动态、功能建议、问题反馈：
+
+<div align="center">
+<img src="assets/qrcode.jpg" width="200" alt="反馈群二维码" />
+</div>
 
 ## 🛠️ 技术栈
 
