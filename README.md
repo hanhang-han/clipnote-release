@@ -11,13 +11,13 @@ macOS native clipboard tool, Swift, SwiftUI, SwiftData.
 
 # ✂️ 灵剪 ClipNote
 
-**macOS 灵动岛剪贴板管理工具**
+**Personal AI Memory OS / 你的第二大脑**
 
-复制过的东西，再也不用找第二次
+被动捕获工作记忆，AI 主动洞察。剪贴板是数据入口，AI 是大脑。
 
 [![下载](https://img.shields.io/badge/下载-灵剪.dmg-blue?style=for-the-badge)](https://funbox.chat)
 [![macOS](https://img.shields.io/badge/macOS-14+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://funbox.chat)
-[![版本](https://img.shields.io/badge/版本-2.0.0-green?style=for-the-badge)](https://github.com/hanhang-han/clipnote/releases/latest)
+[![版本](https://img.shields.io/badge/版本-4.0.13-green?style=for-the-badge)](https://github.com/hanhang-han/clipnote/releases/latest)
 [![Homebrew](https://img.shields.io/badge/Homebrew-Available-orange?style=for-the-badge&logo=homebrew&logoColor=white)](https://github.com/hanhang-han/homebrew-tap)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
